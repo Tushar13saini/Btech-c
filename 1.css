@@ -1,0 +1,15 @@
+header{
+      color: rgb(175, 210, 175);
+}
+
+
+footer{
+    background-color: aliceblue;
+    color: antiquewhite;
+}
+
+p{
+    color: red;
+    background-color: green;
+    font-size: 8rem;
+}
